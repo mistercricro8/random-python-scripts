@@ -1,0 +1,5 @@
+.devbox
+.envrc
+.venv
+.__pycache__
+input.json
